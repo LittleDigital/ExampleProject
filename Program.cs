@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Example
 {
@@ -6,7 +6,7 @@ namespace Example
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello orld!");
         }
     }
 }
